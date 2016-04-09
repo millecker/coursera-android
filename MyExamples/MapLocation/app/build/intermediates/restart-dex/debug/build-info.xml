@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="70282030715043" >
+
+    <task
+        name="javac"
+        duration="3258" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="949" />
+    <task
+        name="verifier"
+        duration="15" />
+
+    <artifact
+        location="/Users/millecker/workspace/coursera-android/MyExamples/MapLocation/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="70282030715043" >
+        <artifact
+            location="/Users/millecker/workspace/coursera-android/MyExamples/MapLocation/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
