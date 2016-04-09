@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/millecker/workspace/coursera-android/MyExamples/MapLocationFromContacts/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/millecker/workspace/coursera-android/MyExamples/MapLocationFromContacts/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 62,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    }
+]
