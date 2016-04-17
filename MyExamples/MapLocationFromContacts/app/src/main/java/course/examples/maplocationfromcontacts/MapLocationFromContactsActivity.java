@@ -71,6 +71,7 @@ public class MapLocationFromContactsActivity extends Activity {
 
 			// These details are covered in the lesson on ContentProviders
 			ContentResolver cr = getContentResolver();
+			var x = data.getD
 			Cursor cursor = cr.query(data.getData(), null, null, null, null);
 
 			if (null != cursor && cursor.moveToFirst()) {
